@@ -1,13 +1,13 @@
 //
-//  VideoPlayerViewController.swift
+//  LocationPickerViewController.swift
 //  Messanger
 //
-//  Created by 丹野健心 on 2022/04/07.
+//  Created by 丹野健心 on 2022/04/22.
 //
 
 import UIKit
 
-class VideoPlayerViewController: UIViewController {
+class LocationPickerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
